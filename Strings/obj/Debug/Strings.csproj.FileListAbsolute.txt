@@ -1,0 +1,7 @@
+F:\C#\Solutions\CSharp\Strings\bin\Debug\Strings.exe.config
+F:\C#\Solutions\CSharp\Strings\bin\Debug\Strings.exe
+F:\C#\Solutions\CSharp\Strings\bin\Debug\Strings.pdb
+F:\C#\Solutions\CSharp\Strings\obj\Debug\Strings.csprojAssemblyReference.cache
+F:\C#\Solutions\CSharp\Strings\obj\Debug\Strings.csproj.CoreCompileInputs.cache
+F:\C#\Solutions\CSharp\Strings\obj\Debug\Strings.exe
+F:\C#\Solutions\CSharp\Strings\obj\Debug\Strings.pdb

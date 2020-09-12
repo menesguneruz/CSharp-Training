@@ -1,0 +1,7 @@
+F:\C#\Solutions\CSharp\ReferenceAndValueType\bin\Debug\ReferenceAndValueType.exe.config
+F:\C#\Solutions\CSharp\ReferenceAndValueType\bin\Debug\ReferenceAndValueType.exe
+F:\C#\Solutions\CSharp\ReferenceAndValueType\bin\Debug\ReferenceAndValueType.pdb
+F:\C#\Solutions\CSharp\ReferenceAndValueType\obj\Debug\ReferenceAndValueType.csprojAssemblyReference.cache
+F:\C#\Solutions\CSharp\ReferenceAndValueType\obj\Debug\ReferenceAndValueType.csproj.CoreCompileInputs.cache
+F:\C#\Solutions\CSharp\ReferenceAndValueType\obj\Debug\ReferenceAndValueType.exe
+F:\C#\Solutions\CSharp\ReferenceAndValueType\obj\Debug\ReferenceAndValueType.pdb

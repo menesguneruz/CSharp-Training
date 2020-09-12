@@ -1,0 +1,10 @@
+F:\C#\Solutions\CSharp\RecapDemo1\bin\Debug\RecapDemo1.exe.config
+F:\C#\Solutions\CSharp\RecapDemo1\bin\Debug\RecapDemo1.exe
+F:\C#\Solutions\CSharp\RecapDemo1\bin\Debug\RecapDemo1.pdb
+F:\C#\Solutions\CSharp\RecapDemo1\obj\Debug\RecapDemo1.csprojAssemblyReference.cache
+F:\C#\Solutions\CSharp\RecapDemo1\obj\Debug\RecapDemo1.Form1.resources
+F:\C#\Solutions\CSharp\RecapDemo1\obj\Debug\RecapDemo1.Properties.Resources.resources
+F:\C#\Solutions\CSharp\RecapDemo1\obj\Debug\RecapDemo1.csproj.GenerateResource.cache
+F:\C#\Solutions\CSharp\RecapDemo1\obj\Debug\RecapDemo1.csproj.CoreCompileInputs.cache
+F:\C#\Solutions\CSharp\RecapDemo1\obj\Debug\RecapDemo1.exe
+F:\C#\Solutions\CSharp\RecapDemo1\obj\Debug\RecapDemo1.pdb
