@@ -1,0 +1,3 @@
+# CSharp-Training
+
+C# Alıştırmaları!
