@@ -1,0 +1,7 @@
+F:\C#\Solutions\CSharp\Reflection\bin\Debug\Reflection.exe.config
+F:\C#\Solutions\CSharp\Reflection\bin\Debug\Reflection.exe
+F:\C#\Solutions\CSharp\Reflection\bin\Debug\Reflection.pdb
+F:\C#\Solutions\CSharp\Reflection\obj\Debug\Reflection.csprojAssemblyReference.cache
+F:\C#\Solutions\CSharp\Reflection\obj\Debug\Reflection.csproj.CoreCompileInputs.cache
+F:\C#\Solutions\CSharp\Reflection\obj\Debug\Reflection.exe
+F:\C#\Solutions\CSharp\Reflection\obj\Debug\Reflection.pdb
